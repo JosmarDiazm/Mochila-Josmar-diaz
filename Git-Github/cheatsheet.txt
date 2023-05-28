@@ -1,0 +1,11 @@
+git init: Inicicializa la carpeta actual como repositorio local de git.
+git status: Hace un registro del estado actual del repositorio.
+git add . : Añade todos los archivos de la carpeta actual.
+git branch -m + rama: Cambia el nombre de la rama.
+git branch + nombre de la rama: Crea una rama.
+git remote add origin + link del repositorio: Vincula al repositorio local con el remoto.
+git  commit -m: Para añadir comentarios de los nuevos cambios.
+git push origin + rama: Sube los cambios al repositorio remoto.
+git checkout + nombre de la rama: Para cambiar de rama.
+git pull: Baja los ultimos cambios del repositorio remoto al local.
+git clone: Clona el repositorio remoto al local.
