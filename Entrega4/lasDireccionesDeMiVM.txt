@@ -1,0 +1,4 @@
+IP Privada: 10.0.2.15
+IP Publica: 186.86.33.35
+Direccion MAC: 08:00:27:fd:b1:60 
+Las ips son diferentes.
